@@ -1,0 +1,14 @@
+{
+  "name": "huevo-su-idiot-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Сатирический тест с результатом в процентах для HUEVO.SU",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
